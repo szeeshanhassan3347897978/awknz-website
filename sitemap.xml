@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urlset>
+<url>
+  <loc>http://www.awknz.com/index.html</loc>    
+  <priority>1</priority>
+</url>
+<url>
+  <loc>http://www.awknz.com/services.html</loc>
+  <priority>0.5</priority>
+</url>
+  <url>
+    <loc>http://www.awknz.com/projects.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.awknz.com/contact.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.awknz.com/terms.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.awknz.com/sitemap.xml</loc>
+    <priority>0.5</priority>
+  </url>
+</urlset>
