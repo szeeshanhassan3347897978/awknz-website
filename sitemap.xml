@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <urlset>
 <url>
-  <loc>http://www.awknz.com/index.html</loc>    
+  <loc>http://www.awknz.com/</loc>    
   <priority>1</priority>
 </url>
 <url>
-  <loc>http://www.awknz.com/services.html</loc>
+  <loc>http://www.awknz.com/services.aspx</loc>
   <priority>0.5</priority>
 </url>
   <url>
-    <loc>http://www.awknz.com/projects.html</loc>
+    <loc>http://www.awknz.com/projects.aspx</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.awknz.com/contact.html</loc>
+    <loc>http://www.awknz.com/contact.aspx</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.awknz.com/terms.html</loc>
+    <loc>http://www.awknz.com/terms.aspx</loc>
     <priority>0.5</priority>
   </url>
   <url>
