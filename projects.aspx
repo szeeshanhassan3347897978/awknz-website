@@ -21,99 +21,58 @@
                             <div class="box item">
 
                                 <a href="#">
-
-                                    <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                                    <img class="img-responsive" src="projects/royalsalon/royal-salon-us.png" width="1600" height="972" alt="royal salon by awknz" />
                                 </a>
-
                             </div>
-
                             <div class="box item">
-
                                 <a href="#">
-
-                                    <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                                    <img class="img-responsive" src="projects/saabrigodam/saabrigodam.png" width="1600" height="972" alt="saabrigodam by awknz" />
                                 </a>
-
                             </div>
-
                             <div class="box item">
-
                                 <a href="#">
-
-                                    <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                                    <img class="img-responsive" src="projects/sayshop/sayshop.png" width="1600" height="972" alt="sayshop ecommerce by awknz" />
                                 </a>
-
                             </div>
-
                             <div class="box item">
-
                                 <a href="#">
-
-                                    <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                                    <img class="img-responsive" src="projects/eshopinoffers/eshopinoffers.png" width="1600" height="972" alt="eshopinoffers blog by awknz" />
                                 </a>
-
                             </div>
-
                             <div class="box item">
-
                                 <a href="#">
-
-                                    <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                                    <img class="img-responsive" src="projects/lead.org/lead.JPG" width="1600" height="972" alt="leads project by awknz" />
                                 </a>
-
                             </div>
 
 
                         </div>
                     </div>
-                    <div class="span4">
+                    <%--<div class="span4">
                         <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</p>
 
-                    </div>
+                    </div>--%>
                 </div>
                 <div class="row-fluid">
                     <div id="sync2" class="owl-carousel">
-
                         <div class="item">
-
-                            <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                            <img class="img-responsive" src="projects/exceptionload/ExceptionLoad.png" width="1600" height="972" alt="Exception load by awknz" />
                         </div>
-
                         <div class="item">
-
-                            <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                            <img class="img-responsive" src="projects/epk24.com/epk24.png" width="1600" height="972" alt="epk24.com by awknz" />
                         </div>
-
                         <div class="item">
-
-                            <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                            <img class="img-responsive" src="projects/IMS/IMS.png" width="1600" height="972" alt="IMS management system by awknz" />
                         </div>
-
                         <div class="item">
-
-                            <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                            <img class="img-responsive" src="projects/ishasalon/isha-salon.png" width="1600" height="972" alt="" />
                         </div>
-
                         <div class="item">
-
-                            <img class="img-responsive" src="assets/home-header.png" width="1600" height="972" alt="" />
-
+                            <img class="img-responsive" src="projects/kashmirtravels/kashmir-travel.png" width="1600" height="972" alt="" />
                         </div>
-
-
                     </div>
                 </div>
             </div>
-
 
             <legend>Recent Projects</legend>
            
